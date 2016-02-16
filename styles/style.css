@@ -1,0 +1,16 @@
+#perso_title {
+ text-align: center; 
+}
+
+.perso_testi{
+  background-color: firebrick;
+  height: 50px;
+  margin-top: -30px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.perso_img {
+  width: 1200px;
+  height: 620px;
+}
